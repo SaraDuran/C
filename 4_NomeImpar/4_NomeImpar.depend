@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601570647 source:c:\users\henri\desktop\listaavaliativa\4_nomeimpar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
